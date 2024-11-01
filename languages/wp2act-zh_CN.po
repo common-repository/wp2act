@@ -1,0 +1,205 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wordpress.org/plugins/wp2act\n"
+"POT-Creation-Date: 2017-11-08 14:26+0800\n"
+"PO-Revision-Date: 2017-11-08 14:26+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __;_e;_x;_ex\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: js\n"
+
+#: CRMAddon-Teaser.php:267
+msgid "Settings"
+msgstr "设置"
+
+#: CRMAddon-Teaser.php:278
+msgid "Log File Download"
+msgstr "错误日志下载"
+
+#: CRMAddon-Teaser.php:293
+msgid "WP2Act setting page"
+msgstr "WP2Act 设置页面"
+
+#: CRMAddon-Teaser.php:294
+msgid "WP2Act Setting"
+msgstr "WP2Act 设置"
+
+#: CRMAddon-Teaser.php:304
+msgid "WP2Act show page title"
+msgstr "WP2Act 显示的页面标题"
+
+#: CRMAddon-Teaser.php:305
+msgid "Show Pages"
+msgstr "显示页面"
+
+#: CRMAddon-Teaser.php:314 CRMAddon-Teaser.php:315 CRMAddon-Teaser.php:513
+msgid "Link Title"
+msgstr "链接标题"
+
+#: CRMAddon-Teaser.php:330
+msgid "ACT Information Setting"
+msgstr "ACT 配置"
+
+#: CRMAddon-Teaser.php:359
+msgid "ACT UserName"
+msgstr "ACT 用户名"
+
+#: CRMAddon-Teaser.php:368
+msgid "ACT Password"
+msgstr "ACT 密码"
+
+#: CRMAddon-Teaser.php:377
+msgid "ACT Database"
+msgstr "ACT 数据库"
+
+#: CRMAddon-Teaser.php:385
+msgid "ACT URL"
+msgstr "ACT URL"
+
+#: CRMAddon-Teaser.php:442
+msgid "Management Of The Contact Link Show"
+msgstr "联系信息点击链接管理"
+
+#: CRMAddon-Teaser.php:462
+msgid "Link Title Setting"
+msgstr "链接标题设置"
+
+#: CRMAddon-Teaser.php:492
+msgid "Title"
+msgstr "标题"
+
+#: CRMAddon-Teaser.php:501 CRMAddon-Teaser.php:522
+msgid "Link Content"
+msgstr "连接内容"
+
+#: CRMAddon-Teaser.php:543
+msgid "Select the show pages"
+msgstr "选择显示的页面"
+
+#: CRMAddon-Teaser.php:560
+msgid "All"
+msgstr "所有"
+
+#: CRMAddon-Teaser.php:561
+msgid "HomePage"
+msgstr "主页"
+
+#: CRMAddon-Teaser.php:562
+msgid "FrontPage"
+msgstr "首页"
+
+#: CRMAddon-Teaser.php:563
+msgid "ArticleDetailPage"
+msgstr "文章详情页"
+
+#: CRMAddon-Teaser.php:564
+msgid "SearchPage"
+msgstr "搜索页"
+
+#: CRMAddon-Teaser.php:565
+msgid "CategoryPage"
+msgstr "标题页"
+
+#: CRMAddon-Teaser.php:568
+msgid "Note:You can press \\\"CTRL\\\" then click the option to select more."
+msgstr "备注：您可以同时按住\"CTRL\"来选取多个。"
+
+#: CRMAddon-Teaser.php:831 CRMAddon-Teaser.php:951
+msgid ""
+"Successful to create or update the contact but fail to add it to the group "
+"and create an activity"
+msgstr "成功创建或更新联系信息但添加到组和创建预约失败"
+
+#: CRMAddon-Teaser.php:834
+msgid ""
+"Successful to update or update the contact but fail to add it to the group "
+"and create an activity"
+msgstr "成功创建或更新联系信息但添加到组和创建预约失败"
+
+#: CRMAddon-Teaser.php:935 CRMAddon-Teaser.php:945
+msgid "Contact Sent"
+msgstr "信息发送成功"
+
+#: CRMAddon-Teaser.php:937
+msgid ""
+"Successful to create or update the contact and add it to the group, but fail "
+"to create the activity"
+msgstr "成功创建或更新联系信息并添加到组但创建预约失败"
+
+#: CRMAddon-Teaser.php:939
+msgid ""
+"Successful to to create or update the contact and create the activity,but "
+"fail to add it to the group"
+msgstr "成功创建或更新联系信息并创建预约但添加到组失败"
+
+#: CRMAddon-Teaser.php:941
+msgid ""
+"Successful to create or update the contact but fail to add it to the group "
+"and create the activity"
+msgstr "成功创建或更新联系信息但添加到组和创建预约失败"
+
+#: CRMAddon-Teaser.php:947
+msgid ""
+"Successful to create or update the contact but fail to add it to the group"
+msgstr "成功创建或更新联系信息但添加到组失败"
+
+#: CRMAddon-Teaser.php:959
+msgid "Send failed"
+msgstr "发送失败"
+
+#: frontend-form.php:18 frontend-form.php:20
+msgid "First Name"
+msgstr "姓"
+
+#: frontend-form.php:24 frontend-form.php:26
+msgid "Last Name"
+msgstr "名"
+
+#: frontend-form.php:30 frontend-form.php:32
+msgid "Phone"
+msgstr "电话"
+
+#: frontend-form.php:36 frontend-form.php:38
+msgid "Email"
+msgstr "邮箱"
+
+#: frontend-form.php:43
+msgid "Country"
+msgstr "国家"
+
+#: frontend-form.php:56 frontend-form.php:58
+msgid "City"
+msgstr "城市"
+
+#: frontend-form.php:62 frontend-form.php:64
+msgid "Street"
+msgstr "街道"
+
+#: frontend-form.php:68 frontend-form.php:70
+msgid "Zip"
+msgstr "邮政编码"
+
+#: frontend-form.php:75
+msgid "How can we help you"
+msgstr "我们怎样帮助您"
+
+#: frontend-form.php:89
+msgid "Comment"
+msgstr "评论"
+
+#: frontend-form.php:103
+msgid "Submit"
+msgstr "提交"
+
+#~ msgid ""
+#~ "Fail to send the contact information,you may refresh the page or change "
+#~ "an email then try again!"
+#~ msgstr "发送失败！"
